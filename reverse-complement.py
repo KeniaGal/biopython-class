@@ -6,7 +6,7 @@ VERSION
     1.0
     
 AUTHOR
-	Hely Salgado
+	Kenia Galvan
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence, from a file.
