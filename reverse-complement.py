@@ -10,7 +10,7 @@ AUTHOR
     
 DESCRIPTION
 	Make the reverse complement of DNA sequence, from a file.
-    
+	This file is part of the Biopython course    
 CATEGORY
 	Genomic Sequence
     
